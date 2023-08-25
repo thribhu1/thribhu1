@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thribhu1 currently pusrsuing Masters in Computer science in University of Cincinnati
+- 👋 Hi, I’m @thribhu1 currntly working in Amazon
 - 👀 I’m interested in Machine Learning, Data Science and Analytics
 - 🌱 I’m currently learning deploying part and backend devlopement using Flask, Django.
 - 💞️ I’m looking to collaborate on for doing projects
