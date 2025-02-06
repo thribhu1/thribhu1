@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @thribhu1 currntly working in Amazon
-- 👀 I’m interested in Machine Learning, Data Science and Generative AI
+- 👀 I’m interested in Data Engineering
+- , Data Science and Generative AI
 - 🌱 I’m currently learning deploying part and backend devlopement using Flask, Django.
 - 💞️ I’m looking to collaborate on for doing projects and 
 
